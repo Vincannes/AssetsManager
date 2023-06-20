@@ -1,0 +1,19 @@
+# ninja log v5
+2302	2498	7089931740652830	cpp.exe	18c488991701f90f
+700	2049	7089914694929484	CMakeFiles/cpp.dir/main.cpp.obj	47059a0aa4ee233e
+682	2301	7089931738711581	CMakeFiles/cpp.dir/assetsmanager.cpp.obj	648affb691ea92e2
+29	680	7089931721020857	D:/Desk/python/AssetsManager/build-cpp-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/cpp_autogen/mocs_compilation.cpp	70b9514780641b84
+29	680	7089931721020857	D:/Desk/python/AssetsManager/build-cpp-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/cpp_autogen/timestamp	70b9514780641b84
+684	2116	7089931736861168	CMakeFiles/cpp.dir/nodegraphwidget.cpp.obj	80dfcc131c20e2f3
+680	2103	7089931736731141	CMakeFiles/cpp.dir/cpp_autogen/mocs_compilation.cpp.obj	9a5152c633ba202b
+29	680	7089931721020857	cpp_autogen/mocs_compilation.cpp	70b9514780641b84
+29	680	7089931721020857	cpp_autogen/timestamp	70b9514780641b84
+7	23	0	D:/Desk/python/AssetsManager/build-cpp-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	1e0f345b6f42eab7
+7	25	0	D:/Desk/python/AssetsManager/build-cpp-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	1e0f345b6f42eab7
+32	253	7089931789494244	cpp_autogen/timestamp	70b9514780641b84
+32	253	7089931789494244	cpp_autogen/mocs_compilation.cpp	70b9514780641b84
+32	253	7089931789494244	D:/Desk/python/AssetsManager/build-cpp-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/cpp_autogen/timestamp	70b9514780641b84
+32	253	7089931789494244	D:/Desk/python/AssetsManager/build-cpp-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/cpp_autogen/mocs_compilation.cpp	70b9514780641b84
+270	1724	7089931804213211	CMakeFiles/cpp.dir/nodegraphwidget.cpp.obj	80dfcc131c20e2f3
+268	1873	7089931805703550	CMakeFiles/cpp.dir/assetsmanager.cpp.obj	648affb691ea92e2
+1873	2065	7089931807573688	cpp.exe	18c488991701f90f
