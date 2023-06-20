@@ -1,9 +1,8 @@
 import os
-import json
-from PyQt5 import QtCore, QtGui, QtWidgets
+from PyQt5 import QtWidgets
 
 from ressources.style import style
-from widgets.main_window import AssetManagerWindow
+from app.nodes.main_window import AssetManagerWindow
 
 SCRIPT_PATH = os.path.dirname(__file__)
 
